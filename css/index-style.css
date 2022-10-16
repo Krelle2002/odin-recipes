@@ -1,0 +1,22 @@
+body{
+    font-family: 'Times New Roman', Times, serif;
+}
+.heading,
+.links {
+    font-family: "Brush Script MT", "Courier New";
+}
+
+.heading {
+    font-size: 50px;
+    font-weight: bold;
+    background-color: rgba(50, 187, 255, 0.3);
+    text-align: center;
+}
+
+.links {
+    font-size: 30px;
+    color: rgb(5, 166, 123);
+    background-color: rgb(218, 218, 178);
+    
+
+}
